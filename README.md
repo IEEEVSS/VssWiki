@@ -3,7 +3,7 @@
 Welcome to IEEEVSS Wiki. This is a centrl place to collect information related to this robot soccer league.
 The actual wiki is at [**wiki page of this repository**](https://github.com/IEEEVSS/VssWiki/wiki)
 
-[Last Scores](https://github.com/IEEEVSS/VssWiki/wiki/Score)
+[Last Scores](https://github.com/IEEEVSS/VssWiki/score.md)
 
 ## Contributers
 - [Adam Henrique Moreira Pinto](https://github.com/ahmp3)
