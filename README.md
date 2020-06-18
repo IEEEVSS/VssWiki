@@ -6,9 +6,10 @@ The actual wiki is at [**wiki page of this repository**](https://github.com/IEEE
 [Last Scores](https://github.com/IEEEVSS/VssWiki/score.md)
 
 ## Contributers
-- [Adam Henrique Moreira Pinto](https://github.com/ahmp3)
+- [Adam Henrique](https://github.com/ahmp3)
+- [Adriel](https://github.com/Adriel999) - UFG
 - [Daniel Morais](https://github.com/danielsmorais) - UFRN
-- [João Victor de Oliveira Gomes Ribeiro](https://github.com/jvoliveirag) - INATEL
+- [João Victor](https://github.com/jvoliveirag) - INATEL
 - [Lucas Cavalcanti](https://github.com/lhcavalcanti) - UFPE
-- [Pedro Jorge Silva](https://github.com/lhcavalcanti/pedrojlsilva) - UFPE
+- [Pedro Jorge](https://github.com/lhcavalcanti/pedrojlsilva) - UFPE
 
