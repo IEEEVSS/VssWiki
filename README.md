@@ -7,6 +7,7 @@ The actual wiki is at [**wiki page of this repository**](https://github.com/IEEE
 
 ## Contributers
 - [Adam Henrique Moreira Pinto](https://github.com/ahmp3)
+- [Daniel Morais](https://github.com/danielsmorais) - UFRN
 - [João Victor de Oliveira Gomes Ribeiro](https://github.com/jvoliveirag) - INATEL
 - [Lucas Cavalcanti](https://github.com/lhcavalcanti) - UFPE
 - [Pedro Jorge Silva](https://github.com/lhcavalcanti/pedrojlsilva) - UFPE
