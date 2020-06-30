@@ -11,5 +11,5 @@ The actual wiki is at [**wiki page of this repository**](https://github.com/IEEE
 - [Daniel Morais](https://github.com/danielsmorais) - UFRN
 - [João Victor](https://github.com/jvoliveirag) - INATEL
 - [Lucas Cavalcanti](https://github.com/lhcavalcanti) - UFPE
-- [Pedro Jorge](https://github.com/lhcavalcanti/pedrojlsilva) - UFPE
+- [Pedro Jorge](https://github.com/pedrojlsilva) - UFPE
 
