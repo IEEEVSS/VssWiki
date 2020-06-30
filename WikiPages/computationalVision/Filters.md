@@ -10,7 +10,7 @@
 
     The mainly purpose of a Multi-Object is avoid multiple objects with the same ID being tracked by the vision system. This is a commonly problem when the system uses more than one camera or the color segmentation creates more than one object to the same color pattern. So, the real application of this filter is unify objects with same ID.
 
-    <img src="./rsc/MultiObjectFilterFlowChart.png" alt="Kalma" width="600" />
+    <img src="./rsc/MultiObjectFilterFlowChart.png" alt="Multi-Object FlowChart" width="600" />
 
     ## Noise Filter
 
